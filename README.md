@@ -4,7 +4,7 @@ Note that this will not keep the game 100% fair, but I think that's ok for Monop
 
 ### Biggest change: the Banker
 
- # The Banker is a separate person, and is the "god" of the game, kind of like a D&D Dungeon Master. They can't win or lose, and they have only 2 objectives. Those objectives in order of importance:
+*The Banker is a separate person, and is the "god" of the game, kind of like a D&D Dungeon Master. They can't win or lose, and they have only 2 objectives. Those objectives in order of importance:*
  <ol>
  <li>Keep the game fun and exciting.</li>
  <li>Keep up the Bank's cash flow, mainly through bank loans or mortgages to players. This doesn't actually do anything for the Banker, since his or her funds are inexhaustible, it just enhances the role-playing.</li>
